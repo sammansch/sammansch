@@ -1,5 +1,21 @@
-### Hi there 👋
+### Hi there. Sam here. 👋
 
+It's been a journey from client/customer service to Software Engineering and I wouldn't change a thing.
+- - - -
+
+- 💻 Currently working my way through [The Odin Project](https://www.theodinproject.com/) to brush up on some web development foundations (including, but not limited to HTML, CSS, and JS best practices)
+- 🤔 Always curious and ready to learn something new!
+- Professional experience:
+  - Progress OpenEdge
+  - C#
+  - HTML
+  - CSS
+  - Angular
+  - TypeScript
+- Working knowledge:
+  - React (including styled components)
+  - JavaScript
+  
 <!--
 **sammansch/sammansch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
