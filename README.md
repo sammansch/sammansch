@@ -1,9 +1,8 @@
 ### Hi there. Sam here. 👋
 
-It's been a journey from client/customer service to Software Engineering and I wouldn't change a thing.
+It's been a journey from client/customer service to Software Engineering and I can't wait to see what's next.
 - - - -
 
-- 💻 Currently working my way through [Complete JavaScript 2022](https://www.udemy.com/course/the-complete-javascript-course/) and [Complete React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 - 🤔 Always curious and ready to learn something new!
 - Professional experience:
   - Progress OpenEdge
