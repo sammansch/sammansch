@@ -1,6 +1,6 @@
 ### Hi there. Sam here. 👋
 
-It's been a journey from client/customer service to Software Engineering and I can't wait to see what's next.
+It's been a journey from client/customer service to Software Engineering and I can't wait to sink my teeth into Product Management.
 - - - -
 
 - 🤔 Always curious and ready to learn something new!
